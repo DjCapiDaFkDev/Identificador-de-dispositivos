@@ -1,2 +1,1 @@
-# Identificador-de-dispositivos
-El único identificador de dispositivos hecho en Python 3 y en una tablet
+Este archivo NO es un virus y solo es un código de Python. Solo con decir tu almacenamiento y RAM en números en el código (como por ejemplo: 4 64) basta para que te diga si tu dispositivo es bueno o no.
